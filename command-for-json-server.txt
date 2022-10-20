@@ -5,3 +5,6 @@ json-server --watch db.json --port 4000
 npm install bootstrap
 
 npm install react-bootstrap
+
+npm install @mui/material @emotion/react @emotion/styled
+
